@@ -1,9 +1,9 @@
 {
-  "name": "comp1073-w2017-lesson2",
+  "name": "comp1073-w2017-lesson4",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Yuta Imaizumi <atamatock@gmail.com>"
   ],
-  "description": "demo app for lesson 2",
+  "description": "demo app for lesson 4",
   "main": "",
   "keywords": [
     "JavaScript"
